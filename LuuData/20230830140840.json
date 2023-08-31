@@ -1,0 +1,7 @@
+{
+    "SERIALNUMBER": "12345",
+    "MODBUSPORT": "502",
+    "MODBUSDEVICE": "1",
+    "MODE": "auto",
+    "PASSWORD": "securepassword"
+}
